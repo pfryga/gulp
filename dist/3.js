@@ -1,0 +1,1 @@
+function sayHello(){return"Hello world"}var c=20;
