@@ -1,7 +1,7 @@
 {
-  "name": "gulp",
+  "name": "node-gulp",
   "version": "1.0.0",
-  "description": "",
+  "description": "Gulp",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/pfryga/node-gulp/issues"
   },
-  "homepage": "https://github.com/pfryga/node-gulp"
+  "homepage": "https://github.com/pfryga/node-gulp",
+  "devDependencies": {},
+  "dependencies": {
+    "gulp": "^3.8.7",
+    "bower": "^1.3.9"
+  }
 }
